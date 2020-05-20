@@ -12,11 +12,12 @@ branches, and lets you check them out in 2 keystrokes.
 
 # Installation #
 
-Copy-paste this line to Bash and run:
+1. Copy-paste this line to Bash and run:
 
 ```console
 $ curl https://raw.githubusercontent.com/cool-RR/git-recent/master/git-recent -o ~/bin/git-recent
 ```
+2. Make it executable: `chmod +x ~/bin/git-recent`
 
 Give `git recent` a test run to make sure you did it right.
 
@@ -47,6 +48,3 @@ I'm thinking mostly of Berlin or Munich, but anywhere in the EU could work.
 # License #
 
 Copyright (c) 2020 Ram Rachum and collaborators, released under the MIT license.
-
-
-
